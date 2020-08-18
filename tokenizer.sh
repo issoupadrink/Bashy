@@ -23,8 +23,6 @@ tokenizer() {
 
                 current=$(( current + 1 ))
                 ;;
-            
-            
 
             ")")
                 types+=('paren')
